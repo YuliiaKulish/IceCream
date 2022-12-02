@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "IceCream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://yuliiakulish.github.io/team-project",
+  "homepage": "https://yuliiakulish.github.io/IceCream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project/"
+    "build": "parcel build src/*.html --public-url /IceCream/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yuliiakulish/parcel-project-template.git"
+    "url": "git+https://github.com/yuliiakulish/IceCream.git"
   },
   "keywords": [],
   "author": "Yuliia Kulish <kulish.yulechka@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yuliiakulish/parcel-project-template/issues"
+    "url": "https://github.com/yuliiakulish/IceCream/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
